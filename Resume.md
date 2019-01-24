@@ -1,4 +1,4 @@
- <center>
+ <div align="center">
      <h1>XXX</h1>
      <div>
          <span>
@@ -21,7 +21,8 @@
              <a href="#">My Blog</a>
          </span>
      </div>
- </center>
+ </div>
+
 
  ## 个人信息
 
