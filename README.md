@@ -1,9 +1,10 @@
 <div align="center">
     <h1>
-		Markdown-Resume
+	Markdown-Resume
     </h1>
 	<img src="assets/preview.png">
 </div>
+
 ## 如何使用
 
 把该项目 Clone 之后，修改 [Resume.md](Resume.md) 文件即可。
