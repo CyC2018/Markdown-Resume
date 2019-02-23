@@ -1,0 +1,48 @@
+@media print {
+
+    #write {
+        padding-top: 0px !important;
+        padding-bottom: 20px !important;
+    }
+
+    content {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+    }
+
+    a {
+        color: #000;
+    }
+
+    h1,
+    h2 {
+        border-bottom: 1px solid #eee !important;
+        margin-bottom: 3px !important;
+        padding-bottom: 3px !important;
+    }
+
+    h2 img {
+        width: 16px !important;
+    }
+
+    h2 {
+        font-size: 17px !important;
+    }
+
+    p {
+        margin-bottom: 2px !important;
+        margin-top: 2px !important;
+    }
+
+    ul {
+        margin-top: 2px !important;
+        margin-bottom: 2px !important;
+    }
+
+    li p {
+        margin-bottom: 0px !important;
+    }
+
+
+    /* add styles here */
+}
