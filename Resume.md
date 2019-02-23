@@ -43,7 +43,7 @@
 
 - **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
 
-​       负责 XXX
+   负责 XXX
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
