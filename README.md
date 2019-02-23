@@ -2,7 +2,7 @@
     <h1>
 	Markdown-Resume
     </h1>
-	<img src="Resume.png">
+	<img src="./Resume.png">
 </div>
 
 
