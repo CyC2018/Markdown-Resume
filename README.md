@@ -12,9 +12,13 @@
 
 ## 导出 PDF
 
-推荐使用 Typora 编辑器，并使用打印功能导出 PDF。
+推荐使用 Typora 编辑器，先导出成 HTML，之后再使用浏览器打印成 PDF。
 
-因为 Markdown 格式不够紧凑，需要修改一些样式，否则会让原本只要一页的内容变成两三页。把 base.user.css 文件放入 Typora\themes 文件夹中。
+因为 Markdown 格式不够紧凑，需要修改一些样式，否则会让原本只要一页的内容变成两三页。将 resume.css 放入主题文件夹中，并使用该主题。
+
+
+
+![](assets/how-to.gif)
 
 ## 关于图标
 
