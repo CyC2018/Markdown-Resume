@@ -1,9 +1,6 @@
-<div align="center">
-    <h1>
-	Markdown-Resume
-    </h1>
-	<img src="./Resume.png">
-</div>
+
+
+<img src="./Resume.png">
 
 
 ## 如何使用
